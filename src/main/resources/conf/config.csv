@@ -1,0 +1,2 @@
+#bookingId|acceptanceDate|itemNumber|sapSdCode|contractCode|startCodiceInvio|startCodiceRitorno|startIdItem|productCode|hasAR|usaFilePerNumeriRaccomandata|blobStoragePath|storageConnectionInfo
+2670500|2022-10-22T11:20:35|10|101000000|032-392564853|57265287845|56265287845|1|233|Y|false|https://tpsopresa01azwe.blob.core.windows.net/ppsopreadvising/PPDTest/|?sv=2021-12-02&ss=b&srt=sco&sp=rwlactf&se=2023-12-31T23:00:00Z&st=2022-12-31T23:00:00Z&spr=https,http&sig=qTKuSsc0Gn%2FdrKw95D6jmpZVbvZeZdQWl2SJn%2Be9Spg%3D
